@@ -1,1 +1,1 @@
-# Terraform-Exercise1
+# Terraform-Exercises
